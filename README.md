@@ -1,1 +1,1 @@
-# Chat-app
+# Linkup (Realtime Chat App)
